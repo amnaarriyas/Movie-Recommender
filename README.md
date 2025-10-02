@@ -7,14 +7,7 @@ A Python-based movie recommendation system utilizing content-based filtering to 
 - [System Architecture / Workflow](#system-architecture--workflow)
 - [Prerequisites](#prerequisites)
 - [Installation](#installation)
-- [Usage](#usage)
-  - [Run the Recommender](#run-the-recommender)
-- [File Structure](#file-structure)
-- [Configuration / Customization](#configuration--customization)
-- [Limitations & Future Improvements](#limitations--future-improvements)
-- [Credits / Acknowledgments](#credits--acknowledgments)
-- [License](#license)
-
+- 
 ## Features
 - Content-based movie recommendations using cosine similarity
 - Built with Python and Jupyter Notebook
